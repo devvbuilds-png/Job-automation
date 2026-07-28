@@ -1,0 +1,402 @@
+[
+  {
+    "id": "bcf062f100027494",
+    "company": "auric-ai.talismatic.com",
+    "title": "Product Manager - Auric AI",
+    "location": "India",
+    "postedDate": "2026-06-07T12:24:37.851Z",
+    "discoveredDate": "2026-06-07T12:24:37.851Z",
+    "sources": [
+      {
+        "platform": "Other",
+        "url": "https://auric-ai.talismatic.com/jobs/J5TOLZ5J4"
+      }
+    ],
+    "applyUrl": "https://auric-ai.talismatic.com/jobs/J5TOLZ5J4",
+    "tier": null,
+    "liveness": "active",
+    "ghostFlag": false,
+    "status": "discovered",
+    "demoStatus": "none",
+    "followups": [],
+    "artifacts": {
+      "jdText": "Apply to this Job\n\nJob Description\n\nAbout Auric AI\n Auric AI is developing the world's most advanced AI-powered vision intelligence platform for defense applications Defense and military organizations today receive overwhelming volumes of visual data from satellites and drones.\nProcessing this manually is slow, expensive, and error-prone.\nOur mission is to use AI-powered vision systems to detect and classify high-value military objects — such as tanks, artillery, radars, and missile launchers — so analysts and commanders can act faster and with greater confidence.  We’re a fast-moving defense technology startup, combining world-class AI research with real-world military applications to create intelligence platforms that can make a difference where time and trust matter most. \n\nThe Role\n We’re hiring a Product Manager to lead the development of our Vision Intelligence Platform. This is not a traditional PM role.\nYou will: Think from first principles to design workflows that make AI useful in mission-critical contexts. Translate AI research into usable, analyst-facing products. Balance speed, trust, and usability when making product decisions. Be AI-native — using the latest AI tools to build wireframes, mockups, prototypes, and demo flows at speed. You will own the end-to-end product experience: defining workflows, designing intuitive screens, prioritizing features, and ensuring analysts receive intelligence they can trust — all within minutes of image arrival. What You’ll Do \n\nVision & Roadmap\n Define the product vision and articulate a clear north star for the platform. Build and communicate a roadmap balancing near-term MVP delivery with long-term platform growth. \n\nWorkflow & UX Design\n Map the full analyst journey: image ingestion → preprocessing → AI detection → quality review → database → dissemination. Work with engineers and designers to create intuitive, analyst-ready screens. Use AI-powered tools (e.g., Figma plugins, AI prototyping, AI design assistants) to generate wireframes and demo flows rapidly. \n\nFeature Prioritization\n Define MVP scope and ruthlessly separate must-haves from nice-to-haves. Make trade-offs between speed-to-decision, detection accuracy, and user trust. \n\nExecution & Delivery\n Translate requirements into clear PRDs and product specs. Drive collaboration between AI researchers, engineers, and domain experts. Ensure reliability and quality in product releases. \n\nUser & Stakeholder Engagement\n Engage with analysts, retired officers, and other stakeholders to understand workflows. Synthesize fragmented feedback into coherent product direction. \n\nMetrics & Success\n Define and track success metrics: time-to-insight, adoption, accuracy, and trust in outputs. Use feedback and data to iterate rapidly. What We’re Looking For AI-native builder: highly proficient in using AI tools for prototyping, wireframing, and creating demo flows. First principles thinker who simplifies complex problems into clear workflows. Technical fluency: understand how AI and software systems work, even if you don’t code daily. User empathy: can design for non-technical users working under pressure. Execution strength: bias for rapid prototyping, iteration, and delivery. Communication skills: able to align researchers, engineers, and defense users. Prior startup/founder experience or exposure to AI/ML products is a strong plus. \n\nWhy Join Us\n Work on one of the hardest, most impactful problems in defense AI. Collaborate with a small, world-class team of researchers and engineers. High ownership from day one shape the platform, not just maintain it. Move fast, learn fast, we build, test, and iterate aggressively. Be part of a mission-driven company where AI meets national security. Auric AI is building the future of defense intelligence.\nIf you’re an AI-native product builder who thrives in a fast-paced, high-ownership environment — we’d love to hear from you. \n\nApply for this Job\nPersonal InformationPre-screening QuestionsUpload Your ResumeAcceptable formats are .docx or .pdf with a maximum file size of 5 MB.Drag and drop your resume hereor click to browse filesNext",
+      "researchPath": "data/jobs/bcf062f100027494/research.md",
+      "gapPath": "data/jobs/bcf062f100027494/gap.md",
+      "resumePath": "data/jobs/bcf062f100027494/resume.md"
+    },
+    "livenessCheckedAt": "2026-07-03T15:08:52.854Z"
+  },
+  {
+    "id": "3ed1f6c570efebf5",
+    "company": "Zocket",
+    "title": "Associate Product Manager",
+    "location": "Chennai, Tamil Nadu, India",
+    "postedDate": "2026-06-26T14:12:02.000Z",
+    "discoveredDate": "2026-06-30T11:12:57.821Z",
+    "sources": [
+      {
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/job-apply/4433231630",
+        "rawId": "4433231630"
+      }
+    ],
+    "applyUrl": "https://www.linkedin.com/job-apply/4433231630",
+    "tier": null,
+    "liveness": "unknown",
+    "ghostFlag": false,
+    "roleBucket": "positive",
+    "status": "discovered",
+    "demoStatus": "none",
+    "followups": [],
+    "artifacts": {
+      "jdText": "We are looking for an Associate Product Manager to help own Creative AI — a product that takes a brand and turns out finished ad creative (images, resizes, videos, reels, UGC) that actually looks on-brand rather than generic AI output. A lot of it is already live and producing real client work, but it is a deep, fiddly product with many models working behind the scenes, and today most of it runs through a small number of people. We need someone to get into the weeds: write the specs, review the real output with a critical eye, catch what is broken, and help push the roadmap from \"powerful but hand-held\" toward something a marketer or our creative team can run smoothly every day.This is a genuine hands-on, learn-by-doing role. You will not be handed a finished playbook — you will help write one. It is ideal for someone early in their product career with strong taste, attention to detail, clear writing, and real curiosity about where AI creative is heading.\n\nKey ResponsibilitiesWrite clear specs, user stories, and tickets that turn fuzzy ideas into work an engineer can build without a dozen follow-up questionsReview creative output with a critical eye — running new features and fixes through their paces, catching garbled text, off-brand colours, and broken layouts, and writing up exactly what is wrong with examplesObserve the creative team and clients using the tool to find where it slows them down, and turn those frictions into prioritised fixesSupport the product roadmap by keeping the backlog groomed and honest, tracking what is shipping against the plan, and flagging slips and mismatches with real customer needsDrive recurring customer asks (PSD and open-file support, push-to-platform, better voiceovers, quick-commerce formats) from a vague wishlist into scoped, prioritised workCoordinate across engineering, the creative team, and the senior PM — keeping everyone pointed at the same thing and unblocking small issues before they growDocument how the model-heavy pipeline and features work, so product knowledge stops living only in a couple of engineers' heads\nRequired Prerequisites2-4 years of experience — a strong recent graduate, someone moving into product from design, marketing, or a creative or analyst background, or an early-career PM looking to go deep on an AI productA demonstrable eye for visual and creative quality — you notice when something looks off (kerning, a slightly wrong logo, a layout that does not breathe)Strong written communication, with the ability to make fuzzy things concrete in specs, bug reports, and summariesGenuine curiosity about AI products and how generation pipelines and models work, even without a coding backgroundStrong organisation and follow-through, with a habit of turning chaos into a tidy list and closing things outComfort with ambiguity and speed in an early, fast-changing product\nCore Competencies & SkillsStrong attention to detail and quality judgment, which matters more than almost anything on a creative productPractical familiarity with AI tools such as Claude, ChatGPT, Claude Code, Cursor, Lovable, v0, or similar for research, documentation, and prototypingClear written communication for specs, user stories, acceptance criteria, and bug reportsAbility to simplify complex AI outputs and multi-step pipelines into clear, understandable user experiencesCustomer-first working style with comfort joining demos, onboarding calls, and feedback sessionsBasic technical fluency — enough to understand why a pipeline has multiple steps and what each model is doingPractical judgment around AI products, including reliability, quality checks, approval flows, and usage costComfort working in a fast-moving startup with changing priorities and early-stage product assumptionsNice to have: a background or strong interest in design, advertising, or marketing; hands-on experience with creative tools (Figma, Canva, Photoshop, or AI tools like Midjourney, Runway, or Kling); and a side project, design, or campaign that shows you can take an idea to done"
+    },
+    "livenessCheckedAt": "2026-07-03T15:08:51.664Z"
+  },
+  {
+    "id": "ccb30b55e1955b52",
+    "company": "University Living",
+    "title": "Associate Product Manager – Project & Growth Ops",
+    "location": "Noida, Uttar Pradesh, India",
+    "postedDate": "2026-06-30T06:38:08.000Z",
+    "discoveredDate": "2026-06-30T11:12:57.821Z",
+    "sources": [
+      {
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/job-apply/4434946446",
+        "rawId": "4434946446"
+      }
+    ],
+    "applyUrl": "https://www.linkedin.com/job-apply/4434946446",
+    "tier": null,
+    "liveness": "unknown",
+    "ghostFlag": false,
+    "roleBucket": "positive",
+    "status": "discovered",
+    "demoStatus": "none",
+    "followups": [],
+    "artifacts": {
+      "jdText": "Company Description University Living is a global student accommodation platform dedicated to helping students find safe, verified, and affordable housing near their universities. With a presence in 640+ global cities, partnerships with 5.5K+ universities, access to 65K+ safe properties, and a community of 12 million+ students assisted, we make the journey from admission to accommodation seamless. Our mission is to simplify student living by connecting learners with trusted homes across the world.\nRole Description ✅ Lead end-to-end execution of product initiatives✅ Collaborate with Engineering, Product, Sales & Marketing teams✅ Drive feature adoption, optimize user journeys, and improve conversions✅ Create PRDs, identify product improvements, and manage key stakeholders✅ Use data and insights to continuously enhance product performance✅ Leverage AI tools to accelerate research, documentation, analysis, and product executionThe Associate \nQualifications✔️ 2–4 years of experience in Product Management, Project Management, or a Technical role✔️ Engineering background preferred✔️ Strong analytical and problem-solving skills✔️ Excellent communication and stakeholder management abilities✔️ Understanding of APIs, platforms, and system workflows✔️ AI-savvy with hands-on experience using AI tools to enhance productivity and product development✔️ Experience with automation tools is an added advantage"
+    },
+    "livenessCheckedAt": "2026-07-03T15:08:50.196Z"
+  },
+  {
+    "id": "6f60873319d0bc63",
+    "company": "Shaadi.com",
+    "title": "Associate Product Manager",
+    "location": "Mumbai, Maharashtra, India",
+    "postedDate": "2026-06-25T07:13:12.000Z",
+    "discoveredDate": "2026-06-30T11:12:57.821Z",
+    "sources": [
+      {
+        "platform": "LinkedIn",
+        "url": "https://openroles.peopleinteractive.in/apply?job=5393",
+        "rawId": "4432193642"
+      }
+    ],
+    "applyUrl": "https://openroles.peopleinteractive.in/apply?job=5393",
+    "tier": null,
+    "liveness": "expired",
+    "ghostFlag": false,
+    "roleBucket": "positive",
+    "status": "discovered",
+    "demoStatus": "none",
+    "followups": [],
+    "artifacts": {
+      "jdText": "At Shaadi.com, we’re not just building a product — we’re building meaningful connections 💕✨. With millions of users across the globe, we thrive on solving real-life matchmaking challenges using the power of data. If you love turning data into insights and building models that create impact at scale, this is your chance to be part of something special 🚀.\nRole Summary 🚀The VIP Personalised team at Shaadi.com provides premium matchmaking services through dedicated Relationship Managers (RMs). We are building AI-powered systems 🤖 that augment RM workflows — helping them identify better matches faster 💡, detect member dissatisfaction early ⚠️, and improve overall service efficiency.\nThe Associate Product Manager (APM) will help design and launch AI-driven tools that improve RM productivity 📈 and customer experience ❤️ at scale.\nKey Responsibilities🤖 AI Product DevelopmentIdentify opportunities to apply AI across the VIP member journeyTranslate RM workflows into scalable AI-powered product featuresDefine product requirements for AI-enabled capabilities🧠 RM Workflow Intelligence\nBuild tools that assist RMs with:Member insights 📊Matchmaking signals 💘Engagement risk detection ⚠️Conversation summaries 📝Next-best actions 🎯\n📈 Experimentation & ImpactDefine metrics to evaluate AI featuresRun experiments and iterate based on usage and outcomesDrive adoption of AI tools within RM workflows\nRequired Qualifications2–4 years of experience in Product Management, Product Analytics, or Technical Product rolesStrong analytical thinking 🧩 and structured problem-solvingExperience working with data-driven products 📊Ability to work cross-functionally with engineering, analytics, and operations teamsExperience working on AI or ML-enabled productsFamiliarity with LLM-based applicationsExperience in consumer platforms, marketplaces, or CX products"
+    },
+    "livenessCheckedAt": "2026-07-03T15:08:47.981Z"
+  },
+  {
+    "id": "9f20b23460d54e39",
+    "company": "EnglishBhashi",
+    "title": "Associate Product Manager(APM)",
+    "location": "Bengaluru, Karnataka, India",
+    "postedDate": "2026-06-11T13:56:35.000Z",
+    "discoveredDate": "2026-06-30T11:12:57.821Z",
+    "sources": [
+      {
+        "platform": "LinkedIn",
+        "url": "https://jobs.pyjamahr.com/englishbhashi/associate-product-manager-apm-4/apply?source=LINKEDIN",
+        "rawId": "4426608363"
+      }
+    ],
+    "applyUrl": "https://jobs.pyjamahr.com/englishbhashi/associate-product-manager-apm-4/apply?source=LINKEDIN",
+    "tier": null,
+    "liveness": "active",
+    "livenessCheckedAt": "2026-06-30T11:12:59.354Z",
+    "ghostFlag": false,
+    "roleBucket": "positive",
+    "status": "discovered",
+    "demoStatus": "none",
+    "followups": [],
+    "artifacts": {
+      "jdText": "EnglishBhashi is a revolutionary language learning platform that empowers individuals to enhance their spoken skills. As a Product-Based EdTech Company, we are dedicated to delivering hyper-personalized and impactful learning experiences. With ambitious goals for scaling, innovation, and user engagement, we’re looking for a driven and versatile Product & Growth Intern to join our dynamic team.\n\nThis is a high-ownership, founder-style role; you will shape the product from the ground up.\n\nLocation: HSR, Bengaluru\n\nWorking: Monday to Saturday\n\nWhat You'll Do\n\nThis is a dynamic role that will require you to wear multiple hats and work across various domains, including product development, marketing, research, and design. Key responsibilities include:\n\nProduct Discovery & User Research\n\nConduct deep user research with Tier 2/3/4 learners (interviews, surveys, usability tests).Identify real user pain points, behaviors, and motivations.Analyze competitor approaches and global learning models.Convert insights into product requirements, hypotheses, and new feature ideas.\n\nProduct Development & Execution\n\nWrite user stories, feature specs, and acceptance criteria.Work closely with engineering & design to build quickly and iterate fast.Support in creating wireframes and prototypes (Figma familiarity preferred).Own sprint planning, QA cycles, and post-release performance analysis.\n\nAnalytics, Metrics & Funnel Optimization\n\nTrack product usage via analytics tools like Amplitude, Mixpanel, Firebase, or GA.Use Microsoft Clarity for heatmaps, session replays, and friction mapping.Identify drop-offs, friction points, and user behavior patterns.Own dashboards, cohort tracking, and metric-driven decision-making.\n\nMarTech, Engagement & Lifecycle Automation\n\nUse lifecycle marketing tools like CleverTap, MoEngage, or WebEngage (must-have).Build automated journeys, push notifications, in-app messaging, and retention flows.Experiment with segmentation, nudges, and habit loops.Improve onboarding, activation, and long-term retention.\n\nGamification & Product-Led Growth\n\nContribute to streaks, missions, rewards, and daily motivation loops.Optimize practice modules and engagement-driven learning workflows.Collaborate with content & community teams to enhance daily active usage.\n\nDocumentation, Roadmaps & Strategic Ops\n\nMaintain product documentation, sprint boards, and feature trackers.Prepare product briefs, pitch decks, and quarterly product plans.Support the founder with investor, grant, or accelerator documentation.\n\nBrand, Content & Community\n\nContribute to LinkedIn posts, product stories, and brand updates.Collaborate with the community team to gather qualitative insights.Track content performance and optimize communication flows.\n\nMust-Have Experience\n\nWhat We’re Looking For\n\nStrong hands-on experience with CleverTap / MoEngage / WebEngage (Automation flows, journeys, segmentation, push campaigns, retention loops)Practical experience with product analytics tools like Amplitude, Mixpanel, Firebase, Google Analytics, and Microsoft Clarity\n\nCore Requirements\n\n6-12 months of experience in product, growth, UX, or MarTech roles.Strong analytical and problem-solving skills.Familiarity with agile workflows and rapid iteration.Working knowledge of Figma or design fundamentals.Experience with tools like Notion, Trello, or Jira.Excellent written & verbal communication.High bias for action and comfort with ambiguity.Ability to think in funnels, cohorts, and user journeys.\n\nBonus\n\nExperience in EdTech or consumer apps for Tier 2/3/4 audiences.Understanding of metrics like DAU, retention, activation, funnels, LTV.\n\nSkills: webengage,moengage,wireframing,google analytics,user research,ui/ux design basics,mixpanel,amplitude,figma,clevertap,metabase,competitor research,firebase"
+    }
+  },
+  {
+    "id": "6c7dece8621d3a69",
+    "company": "EnglishBhashi",
+    "title": "APM with Clevertap",
+    "location": "Bengaluru, Karnataka, India",
+    "postedDate": "2026-06-24T09:52:40.000Z",
+    "discoveredDate": "2026-06-30T11:12:57.821Z",
+    "sources": [
+      {
+        "platform": "LinkedIn",
+        "url": "https://jobs.pyjamahr.com/englishbhashi/apm-with-clevertap/apply?source=LINKEDIN",
+        "rawId": "4431485388"
+      }
+    ],
+    "applyUrl": "https://jobs.pyjamahr.com/englishbhashi/apm-with-clevertap/apply?source=LINKEDIN",
+    "tier": null,
+    "liveness": "active",
+    "livenessCheckedAt": "2026-07-03T15:08:46.499Z",
+    "ghostFlag": false,
+    "roleBucket": "positive",
+    "status": "discovered",
+    "demoStatus": "none",
+    "followups": [],
+    "artifacts": {
+      "jdText": "EnglishBhashi is a revolutionary language learning platform that empowers individuals to enhance their spoken skills. As a Product-Based EdTech Company, we are dedicated to delivering hyper-personalized and impactful learning experiences. With ambitious goals for scaling, innovation, and user engagement, we’re looking for a driven and versatile Product & Growth Intern to join our dynamic team.\n\nThis is a high-ownership, founder-style role; you will shape the product from the ground up.\n\nLocation: HSR, Bengaluru\n\nWorking: Monday to Saturday\n\nWhat You'll Do\n\nThis is a dynamic role that will require you to wear multiple hats and work across various domains, including product development, marketing, research, and design. Key responsibilities include:\n\nProduct Discovery & User Research\n\nConduct deep user research with Tier 2/3/4 learners (interviews, surveys, usability tests).Identify real user pain points, behaviors, and motivations.Analyze competitor approaches and global learning models.Convert insights into product requirements, hypotheses, and new feature ideas.\n\nProduct Development & Execution\n\nWrite user stories, feature specs, and acceptance criteria.Work closely with engineering & design to build quickly and iterate fast.Support in creating wireframes and prototypes (Figma familiarity preferred).Own sprint planning, QA cycles, and post-release performance analysis.\n\nAnalytics, Metrics & Funnel Optimization\n\nTrack product usage via analytics tools like Amplitude, Mixpanel, Firebase, or GA.Use Microsoft Clarity for heatmaps, session replays, and friction mapping.Identify drop-offs, friction points, and user behavior patterns.Own dashboards, cohort tracking, and metric-driven decision-making.\n\nMarTech, Engagement & Lifecycle Automation\n\nUse lifecycle marketing tools like CleverTap, MoEngage, or WebEngage (must-have).Build automated journeys, push notifications, in-app messaging, and retention flows.Experiment with segmentation, nudges, and habit loops.Improve onboarding, activation, and long-term retention.\n\nGamification & Product-Led Growth\n\nContribute to streaks, missions, rewards, and daily motivation loops.Optimize practice modules and engagement-driven learning workflows.Collaborate with content & community teams to enhance daily active usage.\n\nDocumentation, Roadmaps & Strategic Ops\n\nMaintain product documentation, sprint boards, and feature trackers.Prepare product briefs, pitch decks, and quarterly product plans.Support the founder with investor, grant, or accelerator documentation.\n\nBrand, Content & Community\n\nContribute to LinkedIn posts, product stories, and brand updates.Collaborate with the community team to gather qualitative insights.Track content performance and optimize communication flows.\n\nMust-Have Experience\n\nWhat We’re Looking For\n\nStrong hands-on experience with CleverTap / MoEngage / WebEngage (Automation flows, journeys, segmentation, push campaigns, retention loops)Practical experience with product analytics tools like Amplitude, Mixpanel, Firebase, Google Analytics, and Microsoft Clarity\n\nCore Requirements\n\n6-12 months of experience in product, growth, UX, or MarTech roles.Strong analytical and problem-solving skills.Familiarity with agile workflows and rapid iteration.Working knowledge of Figma or design fundamentals.Experience with tools like Notion, Trello, or Jira.Excellent written & verbal communication.High bias for action and comfort with ambiguity.Ability to think in funnels, cohorts, and user journeys.\n\nBonus\n\nExperience in EdTech or consumer apps for Tier 2/3/4 audiences.Understanding of metrics like DAU, retention, activation, funnels, LTV.\n\nSkills: moengage,figma,webengage,metabase,wireframing,firebase,mixpanel,clevertap,competitor research,amplitude,google analytics,user research,ui/ux design basics"
+    }
+  },
+  {
+    "id": "b37c22aad3c73f3d",
+    "company": "Samaaro",
+    "title": "Product Manager",
+    "location": "Bengaluru, Karnataka, India",
+    "postedDate": "2026-06-30T09:50:27.000Z",
+    "discoveredDate": "2026-06-30T11:12:57.821Z",
+    "sources": [
+      {
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/job-apply/4431596792",
+        "rawId": "4431596792"
+      }
+    ],
+    "applyUrl": "https://www.linkedin.com/job-apply/4431596792",
+    "tier": null,
+    "liveness": "unknown",
+    "ghostFlag": false,
+    "roleBucket": "maybe",
+    "status": "discovered",
+    "demoStatus": "none",
+    "followups": [],
+    "artifacts": {
+      "jdText": "About SamaaroSamaaro is an AI-powered event marketing platform that helps marketing teams turn events into a measurable growth channel. We cover the full lifecycle — audience targeting, campaign-led promotion, registration, on-site execution, lead capture, CRM sync, and ROI reporting — for in-person, virtual, and hybrid events. Our customers include enterprise teams at PepsiCo, ICICI Lombard, Property Finder, Dr. Reddy's, Sodexo, and many others across India, the Middle East, Europe, and North America.We're not an event logistics tool. We sit at the intersection of event tech, marketing automation, and sales enablement — connecting events to pipeline, revenue, and business outcomes.\nAbout the RoleWe're looking for a Product Manager who comes from a B2B SaaS background and knows what it takes to build a high-performing product from scratch — not just maintain one. Someone who has lived through the messy, zero-to-one phase of building product where there's no playbook, no established process, and you have to figure out what to build, why it matters, and how to ship it — all at the same time. You should be the kind of PM who can look at a complex enterprise workflow, understand why it breaks, sketch a better version, and rally the team to ship it. You should also be someone who communicates exceptionally well — whether that's writing a crisp product spec, leading a cross-functional alignment meeting, presenting a roadmap to the founders, or getting on a call with an enterprise buyer and asking the right questions to uncover what they actually need. At Samaaro, you'll own product across a platform that spans audience intelligence, campaign automation, registration workflows, QR check-in, lead capture, CRM integrations, and analytics dashboards. You'll work directly with the founders, engineering, design, customer success, and sales. You'll talk to enterprise marketing teams regularly. You'll see your decisions go live fast. This role is for someone who is deeply self-motivated — someone who doesn't wait for direction but actively seeks out problems, uses every tool at their disposal (including AI), and moves from insight to mockup to spec without needing someone to hold their hand through each step. If you want to build a category-defining product in a high-trust, high-velocity environment — and you're the kind of person who'd prototype a new feature in Figma or with an AI tool before the standup is over — this is the role.\nWhat You'll Own\nProduct Discovery & Customer IntelligenceDevelop a deep understanding of Samaaro's ICP: marketing leaders, field marketers, demand gen teams, and event operations managers at mid-market and enterprise companies running 6+ events per year.Speak with customers and prospects regularly to uncover real pain points — not surface-level feature requests, but the workflow friction that slows them down.Conduct structured competitor and market research across event tech, marketing automation, and CRM ecosystems.Translate insights into clear product direction that strengthens product–market fit and expands our category lead.\nThinking, Designing & PrototypingTake ownership of the product thinking process end-to-end: from identifying the problem to sketching solutions to producing functional mockups.Use AI tools (ChatGPT, Claude, Figma AI, v0, or similar) to rapidly brainstorm concepts, generate UI mockups, draft copy, and stress-test ideas — before involving the full design and engineering team.Create low-fidelity and mid-fidelity wireframes and flows that communicate intent clearly enough to kick off engineering conversations.Collaborate with design for high-fidelity polish, but be capable of moving from zero to tangible artifact on your own.\nProblem Structuring & RequirementsBreak large, ambiguous enterprise problems into structured, actionable work — across modules like registration, campaigns, check-in, lead capture, CRM sync, and reporting.Write clear functional flows, user stories, acceptance criteria, and edge-case documentation.Work with design to ensure every experience is simple, intuitive, and built for enterprise users who don't have time to figure things out.Use data — product analytics, customer feedback patterns, funnel metrics — to justify decisions, not assumptions.\nExecution & DeliveryWork closely with engineering to refine tickets, unblock decisions, and maintain shipping momentum.Review builds, test flows end-to-end, and participate actively in QA before releases.Own release notes, internal documentation, and feature communication to GTM teams.Maintain tight alignment with customer success and sales so product decisions reflect what's happening in the field.\nProduct Performance & Continuous ImprovementTrack product metrics — adoption, engagement, drop-off, NPS — and use them to identify gaps and opportunities.Identify friction points across the platform and propose improvements that move the needle on retention and expansion.Align product decisions with ICP needs, PMF direction, and the company's broader event marketing category vision.\nWhat We're Looking For\nMust-haves:2–5 years of product management experience in B2B SaaS — this is non-negotiable. You understand SaaS business models, enterprise buyer journeys, multi-stakeholder deals, and the rhythm of building product that serves paying business customers.Demonstrated experience building product from scratch or near-scratch — you've been in environments where you had to define the problem, shape the solution, set up processes, and ship without relying on an established playbook. You know what zero-to-one feels like.Exceptional communication skills — both written and verbal. You can write a spec that engineers don't need to ask questions about, run a meeting that ends with decisions not confusion, present confidently to founders and leadership, and hold your own in conversations with enterprise customers. Communication is not a checkbox for this role — it's a core skill that shows up in everything you do.Strong analytical mindset — you're comfortable with data, metrics, and making decisions backed by evidence.Ability to read API documentation, understand system architecture basics, and have informed conversations with engineers.Proven ability to go from problem to prototype independently — using design tools, AI tools, or even pen-and-paper sketches to communicate ideas quickly.Comfort with AI-assisted workflows — you already use AI tools for brainstorming, drafting, research, or design, and you're constantly experimenting with new ones.High ownership mindset — you don't wait to be told what to do; you find the problem, propose the solution, and drive it forward.Comfort with ambiguity, shifting priorities, and the pace of an early-stage company scaling fast.Ability to talk to enterprise customers and stakeholders with confidence and curiosity.\nStrong signals:Experience in enterprise SaaS, event tech, CRM platforms, or marketing automation — bonus if you've worked on workflow-heavy products where the user journey is non-linear.You've built and shipped a product (or a major module) from zero — defined the v1 scope, shaped the architecture conversations, and iterated based on early customer feedback.Hands-on experience with Figma, Whimsical, or similar design/prototyping tools.Familiarity with AI-powered design and prototyping tools (v0, Galileo AI, Relume, or similar).Exposure to SQL, analytics tools (Mixpanel, Amplitude, Metabase), or product instrumentation.Experience writing release documentation, participating in QA, or running beta programs.You've worked in a startup where you had to build process alongside product — and you thrived in it.\nWhy SamaaroBuild the category, not just the product. Samaaro sits in a whitespace between event management and marketing automation — you'll help define what event marketing platforms become.Ship fast, learn fast. Small team, short cycles, direct founder access. Your decisions go live in days, not quarters.AI-native product culture. We use AI across our product and our process. You'll be expected to push boundaries on how AI can accelerate product thinking and delivery.Real ownership. You won't be a ticket writer. You'll own outcomes — from discovery to adoption.Global, enterprise impact. Your work will be used by marketing teams at companies like PepsiCo, ICICI Lombard, and Property Finder across multiple continents.Growth path. Clear trajectory to Senior PM or Product Lead as the team scales.Competitive compensation with performance-linked growth."
+    }
+  },
+  {
+    "id": "ef050505e49b93bb",
+    "company": "SourcingXPress",
+    "title": "Product Manager",
+    "location": "Bengaluru, Karnataka, India",
+    "postedDate": "2026-06-29T18:46:58.000Z",
+    "discoveredDate": "2026-06-30T11:12:57.821Z",
+    "sources": [
+      {
+        "platform": "LinkedIn",
+        "url": "https://www.sourcingxpress.com/jobs/2DMTD8DFnr7HC6?utm_source=linkedin&utm_medium=job_board&utm_campaign=careers_2026",
+        "rawId": "4433848266"
+      }
+    ],
+    "applyUrl": "https://www.sourcingxpress.com/jobs/2DMTD8DFnr7HC6?utm_source=linkedin&utm_medium=job_board&utm_campaign=careers_2026",
+    "tier": null,
+    "liveness": "active",
+    "livenessCheckedAt": "2026-06-30T11:13:01.912Z",
+    "ghostFlag": false,
+    "roleBucket": "maybe",
+    "status": "discovered",
+    "demoStatus": "none",
+    "followups": [],
+    "artifacts": {
+      "jdText": "Company: Hashone Careers\n\nWebsite: Visit Website\n\nBusiness Type: Startup\n\nCompany Type: Product\n\nBusiness Model: B2B\n\nFunding Stage: Pre-seed\n\nIndustry: Information Technology\n\nSalary Range: ₹ 10-40 Lacs PA\n\nJob Description\n\nWhat You’ll Do\n\nOwn end-to-end delivery of high-impact AI features — from idea to prototype to productionTranslate abstract ideas into working products in hours or days (not weeks)Collaborate closely with engineers who code faster than most people can specTalk to users, read between the lines, and turn chaos into clarityWork directly with leadership (including the CPTO) on product strategyBalance speed with quality — build fast, but don’t break trust\n\nWhat We’re Looking For\n\n3+ years of product management experience in fast-moving tech companiesExperience shipping AI/ML-powered products (e.g. LLMs, GPT-based tools, recommendations, vision, NLP)You’re fluent in how models work — transformers, embeddings, fine-tuning, etc.Comfortable working with engineering — maybe you even prototype yourselfStrong product sense — you know when to ask “why,” and when to say “ship it”\n\nBonus Points If You\n\nHave an engineering degree from a Tier 1 collegeHave worked in a zero-to-one or founding team setupRead AI papers for fun and know what “RAG” means without googling\n\nWhy Join Us?\n\nWork with a CPTO who codes and engineers who ship like foundersOwnership from Day 1 — your decisions matterNo layers. No BS. Just real work, real users, real impact."
+    }
+  },
+  {
+    "id": "296aec41ae67f537",
+    "company": "Beam AI",
+    "title": "Associate Product Manager",
+    "location": "Noida, Uttar Pradesh, India",
+    "postedDate": "2026-06-29T11:14:58.000Z",
+    "discoveredDate": "2026-06-30T11:13:39.866Z",
+    "sources": [
+      {
+        "platform": "LinkedIn",
+        "url": "https://attentiveos.keka.com/careers/jobdetails/134457",
+        "rawId": "4431096483"
+      }
+    ],
+    "applyUrl": "https://attentiveos.keka.com/careers/jobdetails/134457",
+    "tier": null,
+    "liveness": "active",
+    "livenessCheckedAt": "2026-07-03T12:34:16.915Z",
+    "ghostFlag": false,
+    "roleBucket": "positive",
+    "status": "discovered",
+    "demoStatus": "none",
+    "followups": [],
+    "artifacts": {
+      "jdText": "About Us\n\nAttentive.ai is a leading provider of AI-powered automated takeoff software, tailored for the construction and landscaping industries. Our Beam AI (Beam.ai) product enables construction companies to enhance their estimating processes by automating the tedious task of quantification, driving greater efficiency and accuracy. Trusted by top contractors across the US and Canada, Attentive.ai is proudly supported by renowned investors, including Sequoia Surge, InfoEdge Ventures, Vertex Ventures, Tenacity Ventures & Insight Partner.\n\nPosition Description\n\nAs an Associate Product Manager for Beam AI, you will be at the forefront of transforming the construction industry through innovative AI-powered solutions. You will work closely with cross-functional teams including engineering, design, sales, and customer success to drive product development and deliver exceptional value to our construction industry customers. This role offers an excellent opportunity to learn and grow in product management while making a significant impact on a rapidly scaling product.\n\nRoles & Responsibilities\n\nProduct Strategy & Roadmap\n\nAssist in defining and prioritizing the product roadmap based on customer needs, market trends, and business objectivesConduct market research and competitive analysis to identify opportunities for product improvements and new featuresSupport the development of product requirements documents (PRDs) and user stories\n\nCustomer & User Research\n\nEngage directly with construction industry customers to understand their pain points, workflows, and needsConduct user interviews, surveys, and analyze usage data to gather insightsSynthesize customer feedback into actionable product recommendationsCreate and maintain customer journey maps and user personas\n\nCross-functional Collaboration\n\nWork closely with engineering teams to ensure timely and quality delivery of product featuresPartner with design teams to create intuitive user experiences that solve real construction industry problemsCollaborate with sales and customer success teams to understand market feedback and support go-to-market strategiesCoordinate with marketing on product positioning, messaging, and launch activities\n\nData-Driven Decision Making\n\nDefine and track key product metrics and KPIs to measure product successAnalyze product usage data to identify improvement opportunities and validate hypothesesCreate reports and presentations to communicate product performance to stakeholdersSupport A/B testing and experimentation initiatives\n\nProduct Operations\n\nManage product backlogs and prioritize features based on impact and effortWrite clear and detailed user stories with acceptance criteriaParticipate in sprint planning, reviews, and retrospectivesDocument product features and maintain internal knowledge bases\n\nIndustry Expertise Development\n\nDevelop deep understanding of the construction estimation process and industry challengesStay updated on construction technology trends and emerging AI capabilitiesBuild relationships with industry experts and thought leaders\n\nRequirements & Qualifications\n\nEducation & Experience\n\nBachelor's and/or Master’s degree in Engineering, Computer Science, Business, Construction Management, or related field2 years of experience in product managementInterest in or exposure to B2B SaaS products is a plusKnowledge of the construction industry or construction technology is advantageous but not requiredExperience with AI/ML products or platforms will be a big plus\n\nTechnical Skills\n\nStrong analytical and problem-solving abilities with comfort working with dataBasic understanding of software development processes and agile methodologiesProficiency in product management tools (JIRA, Confluence, or similar)Experience with data analysis tools (SQL, Excel, Google Analytics) is a plusFamiliarity with AI/ML concepts is beneficial\n\nCore Competencies\n\nCustomer Focus: Genuine interest in understanding and solving customer problemsCommunication: Excellent written and verbal communication skills with ability to present complex ideas clearlyCollaboration: Strong interpersonal skills and ability to work effectively in cross-functional teamsAnalytical Thinking: Data-driven approach to decision making and problem solvingLearning Agility: Curiosity and willingness to learn new technologies and industry domains quicklyOwnership: Self-motivated with ability to manage multiple projects and meet deadlinesAttention to Detail: Meticulous approach to documentation and requirement gathering"
+    }
+  },
+  {
+    "id": "3e5cc04684d01255",
+    "company": "Hire Feed",
+    "title": "Product Manager (Remote)",
+    "location": "APAC",
+    "postedDate": "2026-06-30T09:11:24.000Z",
+    "discoveredDate": "2026-06-30T11:13:39.866Z",
+    "sources": [
+      {
+        "platform": "LinkedIn",
+        "url": "https://t.mercor.com/SEluS",
+        "rawId": "4434986099"
+      }
+    ],
+    "applyUrl": "https://t.mercor.com/SEluS",
+    "tier": null,
+    "liveness": "unknown",
+    "ghostFlag": false,
+    "roleBucket": "maybe",
+    "status": "discovered",
+    "demoStatus": "none",
+    "followups": [],
+    "artifacts": {
+      "jdText": "Role: Product Manager (Remote)Location: Remote (Work from Anywhere)Job Type: ContractPayout: USD 80-120 per hour\nRole Overview:We are hiring expert evaluators in product management / roadmap / PRD to review and assess AI-generated work products for accuracy, rigor, and domain quality. This is a remote, hourly engagement.\nKey Responsibilities:• Evaluate AI-generated artifacts against domain-specific quality rubrics.• Identify factual, aesthetic, and presentation errors in documents, spreadsheets, and slide decks.• Apply deep subject-matter expertise to grade outputs.• Provide clear, structured written feedback on evaluated materials.• Ensure alignment with professional standards and client requirements.\nRequired Skills & Qualifications:• Minimum 5 years of professional experience in product management / roadmap / PRD.• Native or professional fluency in English.• Highly proficient in Microsoft Office and Google Workspace, especially Google Slides and PowerPoint.• Strong attention to detail in evaluating technical and business documentation.• Ability to assess complex product materials for logical consistency and accuracy.\nMore About the Opportunity:This role offers a unique opportunity to work with a global leader in technology and information services, contributing to the refinement of AI-generated product deliverables.\nEqual Opportunity Employer:We hire based on skills and expertise. All qualified candidates are welcome regardless of background, experience, or prior employment history. Applications are reviewed solely on demonstrated technical ability and qualifications.\nApply Now!"
+    },
+    "livenessCheckedAt": "2026-07-03T12:34:13.331Z"
+  },
+  {
+    "id": "72799c9f42831914",
+    "company": "Flexiple",
+    "title": "Product Manager",
+    "location": "India",
+    "postedDate": "2026-06-30T09:27:34.000Z",
+    "discoveredDate": "2026-06-30T11:13:39.866Z",
+    "sources": [
+      {
+        "platform": "LinkedIn",
+        "url": "https://app.flexiple.com/job-description/12781?utm_source=linkedin_flexiple_jobpost",
+        "rawId": "4434987194"
+      }
+    ],
+    "applyUrl": "https://app.flexiple.com/job-description/12781?utm_source=linkedin_flexiple_jobpost",
+    "tier": null,
+    "liveness": "unknown",
+    "ghostFlag": false,
+    "roleBucket": "maybe",
+    "status": "discovered",
+    "demoStatus": "none",
+    "followups": [],
+    "artifacts": {
+      "jdText": "Product Manager\nA high-growth, VC-backed SaaS company hiring its founding India product team\nLocation: Bengaluru, Mumbai, Delhi NCR, Hyderabad, Pune, Chennai, Kolkata, Ahmedabad — or Remote (India)\nAbout the Company\nA high-growth, venture-backed SaaS company is building its India product team and has partnered with Flexiple to hire. You will own a real product area from day one and ship decisions that customers feel in weeks, not quarters. Flexiple is a managed marketplace that helps global companies build high-performing teams and GCCs in India.\nRole Overview\nAs a Product Manager, you will own a slice of the roadmap end to end - from problem discovery through launch and iteration - working closely with design, engineering, and go-to-market to turn customer needs into shipped value.\nKey Responsibilities\nDiscovery & Roadmap\nTalk to customers, study usage data, and define the problems worth solvingOwn a prioritised roadmap for your area and the reasoning behind itWrite clear specs, user stories, and acceptance criteria\nDelivery & Iteration\nWork day to day with design and engineering to ship and refine featuresDefine success metrics and track adoption, retention, and impactRun launches with marketing, sales, and support\nIdeal Candidate Profile\n3 to 7 years in product management, ideally in B2B or SaaSA track record of shipping products that moved a metricStrong product sense, written communication, and comfort with dataClear written and spoken English and a reliable remote-work setup\nPreferred Qualifications\nExperience with analytics tools such as Amplitude, Mixpanel, or SQLExposure to building products for global or US customersFamiliarity with a startup or zero-to-one environment\nWhat We Offer\nA founding product seat with a high-growth SaaS companyRemote-friendly, pan-India hiring with long-term placementHigh ownership and direct influence on the roadmapOne application considered for this and future matched roles\nHiring Process\nHR Screening → Assignment → Leadership Round 1 → Leadership Round 2 → Culture Fit\nApplications are being reviewed this week. Apply today to be included in the first round of interviews.\nWe are shortlisting candidates within 24–48 hours — apply now to be considered.\nNot the right fit? Tag someone in your network who might be a great fit."
+    }
+  },
+  {
+    "id": "444fe956a6235499",
+    "company": "Fastcurve",
+    "title": "Product Manager - HRMS",
+    "location": "Noida, Uttar Pradesh, India",
+    "postedDate": "2026-06-30T10:17:23.000Z",
+    "discoveredDate": "2026-06-30T11:13:39.866Z",
+    "sources": [
+      {
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/job-apply/4434980400",
+        "rawId": "4434980400"
+      }
+    ],
+    "applyUrl": "https://www.linkedin.com/job-apply/4434980400",
+    "tier": null,
+    "liveness": "unknown",
+    "ghostFlag": false,
+    "roleBucket": "maybe",
+    "status": "discovered",
+    "demoStatus": "none",
+    "followups": [],
+    "artifacts": {
+      "jdText": "Role Summary\nFastcurve is hiring Product Managers who operate at the intersection of HR, Workforce Operations, Product, and Customer Outcomes.This is not a traditional backlog management or requirement gathering role.You will work directly with HR leaders, business owners, operations teams, and employees to understand workforce challenges, improve HR processes, and drive adoption of digital HR systems.You are not expected to write production code, but you are expected to confidently use AI-assisted tools to create workflows, specifications, prototypes, policies, process designs, and product improvements.You will own the loop:HR Problem → Product Solution → Generate → Validate → Deploy → Learn\nWhat You Will DoCustomer Collaboration & HR Process TransformationWork directly with HR teams, business leaders, and operations stakeholdersUnderstand hiring, onboarding, attendance, leave, payroll, performance, compliance, and employee engagement challengesTranslate business and HR requirements into scalable product capabilitiesDrive customer adoption through process improvements and product enhancementsCommunicate business impact, ROI, operational efficiency gains, and change management requirements\nProduct Thinking & Solution DesignConvert ambiguous HR and workforce problems into structured product requirementsDesign workflows covering employee lifecycle, attendance, leave, payroll, recruitment, performance, compliance, and employee self-serviceBalance customer needs, implementation feasibility, compliance requirements, and execution speedCreate AI-assisted prototypes, specifications, user journeys, and process flows\nAI-Assisted Product ExecutionUse AI tools to generate requirements, workflows, acceptance criteria, documentation, prototypes, reports, and product conceptsValidate AI-generated outputs before implementationWork closely with engineering, QA, design, and customer success teamsUnderstand integrations with payroll systems, biometric devices, identity systems, communication platforms, and third-party HR toolsUnderstand technical constraints without being the implementation owner\nHR Domain Research & Product InnovationStay current with HRTech, workforce management, payroll, compliance, and employee experience trendsStudy how organizations manage attendance, leave, hiring, onboarding, payroll, performance, and complianceTranslate customer feedback and market insights into product improvementsConvert product investments into measurable customer outcomes\nYou May Be a Fit If YouThink like a consultant and operate like a product ownerEnjoy customer conversations and solving operational problemsCan convert HR discussions into structured product decisionsUse AI tools to move from idea → prototype → decision rapidlyAre comfortable making decisions with incomplete informationPrefer ownership and outcomes over coordinationHave strong empathy for HR users, managers, and employees\nPreferred Background3-5 years in Product Management, HR Operations, HR Technology, HRMS, HCM, Payroll, Workforce Management, ERP, or SaaS productsExperience working directly with HR teams, business leaders, and operational stakeholdersStrong process thinking and problem-solving abilityFamiliarity with HRMS modules such as Recruitment, Onboarding, Attendance, Leave, Payroll, Performance Management, Employee Self-Service, and ComplianceFamiliarity with AI-assisted workflows and modern product development toolsAbility to understand technical constraints without being a hands-on engineer"
+    }
+  },
+  {
+    "id": "77b94c886d947257",
+    "company": "JPMorganChase",
+    "title": "Product Manager - Digital Channels Detection",
+    "location": "Bengaluru, Karnataka, India",
+    "postedDate": "2026-06-30T09:09:03.000Z",
+    "discoveredDate": "2026-06-30T11:13:39.866Z",
+    "sources": [
+      {
+        "platform": "LinkedIn",
+        "url": "https://JPMorganChase.contacthr.com/152550952",
+        "rawId": "4432873157"
+      }
+    ],
+    "applyUrl": "https://JPMorganChase.contacthr.com/152550952",
+    "tier": null,
+    "liveness": "unknown",
+    "ghostFlag": false,
+    "roleBucket": "maybe",
+    "status": "discovered",
+    "demoStatus": "none",
+    "followups": [],
+    "artifacts": {
+      "jdText": "Job Description\n\nYou enjoy shaping the future of product innovation as a core leader, driving value for customers, guiding successful launches, and exceeding expectations. Join our dynamic team and make a meaningful impact by delivering high-quality products that resonate with clients.\n\nAs a Product Manager in Digital Channels Detection, you are an integral part of the team that innovates new product offerings and leads the end-to-end product life cycle. As a core leader, you are responsible for acting as the voice of the customer and developing profitable products that provide customer value. Utilizing your deep understanding of how to get a product off the ground, you guide the successful launch of products, gather crucial feedback, and ensure top-tier client experiences. With a strong commitment to scalability, resiliency, and stability, you collaborate closely with cross-functional teams to deliver high-quality products that exceed customer expectations.\n\nJob Responsibilities\n\nDevelops a product strategy and product vision that delivers value to customersManages discovery efforts and market research to uncover customer solutions and integrate them into the product roadmapOwns, maintains, and develops a product backlog that enables development to support the overall strategic roadmap and value propositionBuilds the framework and tracks the product's key success metrics such as cost, feature and functionality, risk posture, and reliability\n\nRequired Qualifications, Capabilities, And Skills\n\n5+ years of experience or equivalent expertise in product management or a relevant domain areaAdvanced knowledge of the product development life cycle, design, and data analyticsProven ability to lead product life cycle activities including discovery, ideation, strategic development, requirements definition, and value management\n\nPreferred Qualifications, Capabilities, And Skills\n\nDemonstrated prior experience working in a highly matrixed, complex organization\n\nAbout Us\n\nJPMorganChase, one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world's most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management.\n\nWe recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. We also make reasonable accommodations for applicants' and employees' religious practices and beliefs, as well as mental health or physical disability needs. Visit our FAQs for more information about requesting an accommodation.\n\nAbout The Team\n\nOur Consumer & Community Banking division serves our Chase customers through a range of financial services, including personal banking, credit cards, mortgages, auto financing, investment advice, small business loans and payment processing. We're proud to lead the U.S. in credit card sales and deposit growth and have the most-used digital solutions – all while ranking first in customer satisfaction.\n\nThe Digital team is dedicated to creating innovative, industry-leading products and experiences that help customers access, share and control their financial data so they can make smart decisions with their money. Teams enable innovation while adhering to the firm's data sharing principles of security, customer control and convenience, and privacy."
+    }
+  },
+  {
+    "id": "8334bb3755865bd1",
+    "company": "Sustainiam",
+    "title": "Associate Product Manager",
+    "location": "Noida, Uttar Pradesh, India",
+    "postedDate": "2026-06-25T00:54:55.000Z",
+    "discoveredDate": "2026-06-30T11:17:12.436Z",
+    "sources": [
+      {
+        "platform": "LinkedIn",
+        "url": "https://sustainiam.keka.com/careers/jobdetails/77377?source=linkedin",
+        "rawId": "4432147011"
+      }
+    ],
+    "applyUrl": "https://sustainiam.keka.com/careers/jobdetails/77377?source=linkedin",
+    "tier": null,
+    "liveness": "unknown",
+    "ghostFlag": false,
+    "roleBucket": "positive",
+    "status": "discovered",
+    "demoStatus": "none",
+    "followups": [],
+    "artifacts": {
+      "jdText": "Location: Noida (Work from Office)\n\nEmployment Type: Full-Time\n\nExperience: 2+ Years\n\nAbout Sustainiam\n\nSustainiam is a climate technology company building digital infrastructure for global environmental markets. Our platform enables the end-to-end lifecycle of carbon and environmental credits—from project registration and monitoring to verification, issuance, trading (exchange and OTC), and reporting.\n\nWe empower businesses, project developers, and ecosystem stakeholders with technology-driven solutions across renewable energy, carbon removal, waste management, nature-based solutions, and community-led sustainability initiatives. By combining innovation with transparency, Sustainiam is accelerating the transition to a more sustainable, low-carbon economy.\n\nAbout The Role\n\nWe are looking for a highly motivated Associate Product Manager (APM) to join our Product team. As an APM, you will work closely with Product Managers, Engineering, Design, and Business teams to build and enhance innovative products in the climate-tech and fintech ecosystem.\n\nThis role is ideal for someone with 2+ years of product management experience who enjoys solving complex business problems, thrives in a startup environment, and is passionate about building customer-centric products. You'll gain hands-on experience across the complete product lifecycle—from product discovery and execution to launch and optimization.\n\nKey Responsibilities\n\nProduct Development & Execution\n\nAssist in defining product vision, roadmap, and feature prioritization.Translate business and customer requirements into Product Requirement Documents (PRDs), user stories, and acceptance criteria.Work closely with Engineering and Design teams to ensure timely and high-quality product delivery.Participate in sprint planning, backlog grooming, and Agile ceremonies.Coordinate feature releases and support product launches.\n\nCustomer & Market Research\n\nConduct customer interviews, gather feedback, and identify user pain points.Perform market research and competitive analysis to identify product opportunities.Validate product ideas through customer insights and data.\n\nCross-functional Collaboration\n\nCollaborate with Engineering, Design, Sales, Marketing, Customer Success, and Operations teams.Coordinate with stakeholders to ensure alignment on product priorities and timelines.Support go-to-market planning and feature adoption initiatives.\n\nProduct Analytics\n\nTrack key product metrics and feature adoption.Analyze user behavior and recommend product improvements.Support data-driven decision-making through experimentation and performance analysis.\n\nMandatory Requirements\n\n2+ years of experience in Product Management or Associate Product Management.Prior experience working in a high-growth startup environment (Mandatory).Experience building or managing Fintech and/or B2B SaaS products.Strong understanding of Agile/Scrum product development methodologies.Experience writing PRDs, user stories, and managing product backlogs.Excellent analytical, problem-solving, and communication skills.Strong stakeholder management and cross-functional collaboration abilities.Customer-first mindset with a passion for building impactful digital products.\n\nPreferred Qualifications\n\nExposure to Climate Tech, Carbon Markets, ESG, Sustainability, or Renewable Energy.Experience working with APIs, dashboards, data platforms, or workflow automation tools.Familiarity with product analytics tools such as Mixpanel, Amplitude, or Google Analytics.Basic understanding of SQL or data analysis is an added advantage.\n\nWhat You'll Gain\n\nOpportunity to build innovative products with real-world environmental impact.High ownership and direct mentorship from experienced Product Leaders and Founders.Exposure to the complete product development lifecycle.Fast-paced startup culture with continuous learning and rapid career growth.Collaborative environment where your ideas directly influence product decisions.\n\nPerks & Benefits\n\nCulture & Work Environment\n\nCollaborative, fast-paced startup culture with high ownership and learning opportunities.Fun Fridays, monthly team outings, festival celebrations, and employee engagement activities.Recognition and rewards for outstanding contributions and key milestones.Opportunity to work directly with founders and senior leadership.\n\nFinancial & Wellness Benefits\n\nComprehensive medical insurance for employees and their families.Employee Stock Ownership Plan (ESOP) – own a stake in our mission and growth.Meal card/pass and flexible benefits plan.Personal accident insurance and air travel accident coverage.Learning and development budget to support continuous upskilling.\n\nOffice & Campus Facilities\n\nModern office with a collaborative work environment.On-site gym and recreational game zones.Access to cricket, tennis, and badminton courts.Creche/daycare facilities on campus.Multiple food courts and cafés within the office premises.\n\nWhy Join Sustainiam?\n\nBuild technology that powers the future of global environmental markets.Work at the intersection of climate tech, fintech, and enterprise SaaS.Join a mission-driven team committed to solving meaningful global challenges.Accelerate your product career through ownership, mentorship, and continuous learning.Be part of a company where innovation, collaboration, and impact go hand in hand.\n\nReady to build products that drive sustainability at scale? Apply now and become a part of Sustainiam's mission to shape the future of climate technology."
+    }
+  },
+  {
+    "id": "5b7518a6396d9dc1",
+    "company": "JLL",
+    "title": "APM Civil Finishes",
+    "location": "Mumbai Metropolitan Region",
+    "postedDate": "2026-06-28T23:30:36.000Z",
+    "discoveredDate": "2026-06-30T11:17:12.436Z",
+    "sources": [
+      {
+        "platform": "LinkedIn",
+        "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Mumbai-MH/APM-Civil-Finishes_REQ507200",
+        "rawId": "4434420055"
+      }
+    ],
+    "applyUrl": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Mumbai-MH/APM-Civil-Finishes_REQ507200",
+    "tier": null,
+    "liveness": "unknown",
+    "ghostFlag": false,
+    "roleBucket": "positive",
+    "status": "discovered",
+    "demoStatus": "none",
+    "followups": [],
+    "artifacts": {
+      "jdText": "We are seeking an experienced Assistant Project Manager specializing in finishes to oversee and coordinate all finishing trades across construction projects. This role requires 6-8 years of hands-on experience managing blockwork, finishing, gypsum installation, painting, and post-pour works. The ideal candidate will ensure quality execution, maintain project schedules, and coordinate multiple subcontractors to deliver exceptional finishing standards.\n\nKey Responsibilities\n\nThe Assistant Project Manager - Finishes will manage the complete lifecycle of finishing works from planning through final handover. This includes coordinating with architects, engineers, and subcontractors to ensure specifications are met while maintaining budget and schedule adherence. You'll review shop drawings and material submittals for blockwork, gypsum systems, and finishing materials, ensuring compliance with design intent and building codes.\n\nDaily responsibilities include supervising subcontractor performance across multiple work fronts, conducting quality inspections at critical stages, and implementing corrective actions when standards aren't met. You'll prepare and maintain detailed progress reports, identify potential delays or conflicts early, and develop mitigation strategies to keep projects on track.\n\nManaging the RFI process for finishing trades falls under your purview, as does maintaining accurate as-built documentation. You'll conduct regular site walks to verify workmanship quality, coordinate material deliveries to prevent schedule disruptions, and ensure proper sequencing of trades to maximize efficiency.\n\nPost-pour works coordination requires particular attention to waterproofing details, expansion joint installation, and surface preparation standards. You'll verify that concrete surfaces meet flatness and finish requirements before subsequent trades proceed, preventing costly rework.\n\nRequired Qualifications\n\nExperience: 6-8 years of progressive experience managing finishes on commercial, residential, or mixed-use construction projects. Demonstrated expertise in blockwork installation including structural and non-structural applications, partition systems, and CMU construction. Proven track record with gypsum board systems, metal framing, acoustic ceilings, and specialty finishing applications.\n\nTechnical Knowledge: Comprehensive understanding of painting systems including surface preparation, priming, and finish coat applications across various substrates. Detailed knowledge of post-pour remediation techniques, concrete surface treatments, and waterproofing applications. Familiarity with building codes, ASTM standards, and industry best practices for finishing trades.\n\nSkills: Strong ability to read and interpret architectural drawings, finishing schedules, and specifications. Proficient in project management software and Microsoft Office suite, particularly Excel for schedule tracking and cost monitoring. Excellent coordination abilities to manage multiple subcontractors simultaneously while maintaining quality standards.\n\nPreferred Qualifications\n\nBachelor's degree in Construction Management, Civil Engineering, or related field. Certifications in project management or specific finishing trades. Experience with LEED or sustainable building practices. Background working on projects exceeding $50 million in construction value.\n\nCore Competencies\n\nLeadership and team coordination skills with the ability to motivate subcontractors and resolve conflicts effectively. Strong problem-solving capabilities with a proactive approach to identifying and addressing potential issues. Excellent communication skills for interfacing with clients, consultants, and project stakeholders. Detail-oriented with strong organizational abilities to manage documentation and track multiple work packages simultaneously. Commitment to safety with understanding of site-specific hazards related to finishing trades."
+    }
+  }
+]
